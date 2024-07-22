@@ -1,0 +1,40 @@
+{
+  "name": "survey_test1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@sap_oss/odata-library": "^2.3.4",
+    "antd": "^5.14.1",
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "fs-extra": "^11.2.0",
+    "next": "14.1.0",
+    "pg": "^8.11.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-helmet": "^6.1.11",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
+}
